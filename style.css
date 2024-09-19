@@ -1,0 +1,33 @@
+body {
+    background-color: aqua; 
+    color: black;
+    font-family:"Pacifico", cursive; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {background-color: lightslategrey;
+    color: white; 
+    
+
+
+}
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    max-width: 90%;
+}
+
+
+img {
+    max-width: 80%;
+}
